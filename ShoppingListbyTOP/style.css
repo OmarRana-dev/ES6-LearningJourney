@@ -1,0 +1,19 @@
+/* button {
+    background-color: cadetblue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+} */
+
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  font-size: 8px;
+  margin-left: 20px;
+  color: #666;
+}

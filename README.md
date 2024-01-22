@@ -1,2 +1,2 @@
 # ES6-LearningJourney
-# A simple journey from 0 to 10.
+# A JS journey from 0 to 10.
